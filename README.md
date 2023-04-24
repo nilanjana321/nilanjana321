@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debosmita Koner</h1>
 <h3 align="center">I am a passionate developer. Currently learning python, java, React, Node.js, Angular, js, css</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
+<img align="right" alt="coding" width="100" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanjana321&label=Profile%20views&color=0e75b6&style=flat" alt="nilanjana321" /> </p>
 
