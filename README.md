@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanjana321&label=Profile%20views&color=0e75b6&style=flat" alt="nilanjana321" /> </p>
 
-<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
 
 - 🌱 I’m currently learning **java, python, css, js, MEAN Stack, cloud computing**
 
