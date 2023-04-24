@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@debosmita_koner" target="blank"><img src="https://img.shields.io/twitter/follow/@debosmita_koner?logo=twitter&style=for-the-badge" alt="@debosmita_koner" /></a> </p>
 
-- 🌱 I’m currently learning **java, python, css, js, MEAN Stack**
+- 🌱 I’m currently learning **java, python, css, js, MEAN Stack, cloud computing**
 
-- 💬 Ask me about **java, python, css, js, MEAN Stack**
+- 💬 Ask me about **java, python, css, js, MEAN Stack, cloud computing**
 
-- 📫 How to reach me **debosmitakoner2020@gmail.com**
+- 📫 How to reach me **nilanjana2k1@gmail.com**
 
 - ⚡ Fun fact **I am heavy sleeper**
 
