@@ -20,7 +20,7 @@
   
 <a href="https://fb.com/debosmita koner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debosmita koner" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_s.l.e.e.p.y.h.e.a.d_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debosmita koner" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@debosmita koner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@debosmita koner" height="30" width="40" /></a>
+<a href="https://discord.gg/B2zkEzkA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="debosmita koner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
