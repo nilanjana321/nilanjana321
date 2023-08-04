@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
 
-- 🌱 I’m currently learning **java, python, css, js, MEAN Stack, cloud computing**
+- 🌱 I’m currently learning **java, python, html, cloud computing**
 
-- 💬 Ask me about **java, python, css, js, MEAN Stack, cloud computing**
+- 💬 Ask me about **java, python, html, cloud computing**
 
 - 📫 How to reach me **nilanjana2k1@gmail.com**
 
