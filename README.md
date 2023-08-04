@@ -17,10 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@debosmita_koner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@debosmita_koner" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debosmita-ap12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debosmita-ap12" height="30" width="40" /></a>
+  
 <a href="https://fb.com/debosmita koner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debosmita koner" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/debosmita koner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debosmita koner" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_s.l.e.e.p.y.h.e.a.d_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debosmita koner" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@debosmita koner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@debosmita koner" height="30" width="40" /></a>
 </p>
 
