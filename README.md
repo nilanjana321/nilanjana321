@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debosmita Koner</h1>
+<h1 align="center">Hi! I'm Debosmita Koner <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <h3 align="center">I am a passionate developer. Currently learning python, java, React, Node.js, Angular, js, css</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanjana321&label=Profile%20views&color=0e75b6&style=flat" alt="nilanjana321" /> </p>
